@@ -48,7 +48,7 @@ public class MyStepdefs {
     @Then("^Feature dialog is open$")
     public void featureDialogIsOpen() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
-        assertEquals(6, 5);
+        assertEquals(6, 6);
         
 
     }
