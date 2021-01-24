@@ -29,6 +29,7 @@ public class MyStepdefs {
     @Then("^Only tablets with lower price will be presented Only tablets with lower price will be presented Only tablets with lower price will be presented$")
     public void onlyTabletsWithLowerPriceWillBePresentedOnlyTabletsWithLowerPriceWillBePresentedOnlyTabletsWithLowerPriceWillBePresented() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
+        assertEquals(6, 5);
 
     }
 
